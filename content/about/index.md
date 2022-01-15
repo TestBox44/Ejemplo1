@@ -15,5 +15,5 @@ Integrantes del grupo 11:
 * Perez Santiago, Albert Williams
 
 Plataformas utilizadas:
-* Amazon Web Services
-* GitHub
+
+
